@@ -1211,11 +1211,12 @@
 															"_parent": {
 																"$ref": "AAAAAAF4k93JUbGJpFA="
 															},
-															"visible": false,
 															"font": "Arial;13;0",
 															"left": 92,
 															"top": 584,
-															"height": 13
+															"width": 32,
+															"height": 13,
+															"text": "[else]"
 														}
 													],
 													"font": "Arial;13;0",
@@ -1656,7 +1657,8 @@
 									"_parent": {
 										"$ref": "AAAAAAF4k93C5rFv6MU="
 									},
-									"name": "InteractionOperand1"
+									"name": "InteractionOperand1",
+									"guard": "else"
 								}
 							]
 						}
