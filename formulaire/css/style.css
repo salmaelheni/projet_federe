@@ -1,0 +1,46 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    place-items: center;
+    scroll-behavior: smooth;
+  }
+  
+.img {
+    width: 100%;
+    height: 240px;
+    background-image: url('../img/imgcadre.jpg');
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       position: relative;
+       
+       float: left;
+       width: 100%;
+       border: 1px ;
+  }
+  #idee-cadeau{
+     font-family: 'Caveat', cursive;
+      color: white;
+      text-align: center;
+  }
+  #para{
+      font-size: 30px ;
+      font-family: 'Caveat', cursive;
+    color:white;
+    text-align: center;
+  }
+  h1,h3 {
+    font-family: 'Caveat', cursive;
+  }
+  .bord{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border:  5px;
+    padding: 80px;
+    background-color : rgb(182, 182, 181);
+    color: black;
+    }
+#liste-cadeaux h3{
+    text-align: left;
+}
