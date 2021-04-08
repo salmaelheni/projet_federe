@@ -63,9 +63,9 @@
 												"$ref": "AAAAAAF4d9zaAK+x3AU="
 											},
 											"font": "Arial;13;0",
-											"left": 33,
-											"top": 13,
-											"width": 60,
+											"left": 94.97900390625,
+											"top": 21,
+											"width": 59.525390625,
 											"height": 13,
 											"text": "inscription"
 										},
@@ -76,16 +76,16 @@
 												"$ref": "AAAAAAF4d9zaAK+x3AU="
 											},
 											"font": "Arial;13;1",
-											"left": 13,
-											"top": 13,
-											"width": 15,
+											"left": 29,
+											"top": 21,
+											"width": 60.97900390625,
 											"height": 13,
-											"text": "sd"
+											"text": "interaction"
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 8,
-									"top": 8,
+									"left": 24,
+									"top": 16,
 									"width": 921,
 									"height": 537,
 									"nameLabel": {
@@ -146,7 +146,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"width": 104,
+													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
 												},
@@ -259,7 +259,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"width": 104,
+													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
 												},
@@ -374,7 +374,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -16,
-													"width": 104,
+													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
 												},
@@ -490,7 +490,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -98,
-													"width": 104,
+													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
 												},
@@ -596,7 +596,7 @@
 												"$ref": "AAAAAAF4d+GJS7BYhus="
 											},
 											"edgePosition": 1,
-											"text": "1 : Saisir(nom,prenom,nom_utilisateur,email,mot_de_passe)"
+											"text": "1 : Saisir(nom,prenom,age,email,mot_de_passe)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1056,7 +1056,7 @@
 											"font": "Arial;13;0",
 											"left": 359,
 											"top": 388,
-											"width": 171,
+											"width": 171.564453125,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
@@ -1162,7 +1162,7 @@
 							"target": {
 								"$ref": "AAAAAAF4d96Qjq/AH/s="
 							},
-							"arguments": "nom,prenom,nom_utilisateur,email,mot_de_passe"
+							"arguments": "nom,prenom,age,email,mot_de_passe"
 						},
 						{
 							"_type": "UMLMessage",

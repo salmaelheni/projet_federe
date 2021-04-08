@@ -170,7 +170,7 @@
 											"top": 209,
 											"width": 154,
 											"height": 13,
-											"text": "+Budget check box",
+											"text": "+Budget range",
 											"horizontalAlignment": 0
 										},
 										{
@@ -648,7 +648,7 @@
 											"top": 182,
 											"width": 135,
 											"height": 13,
-											"text": "-Id cadeau: entier",
+											"text": "+Id cadeau: entier",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1402,7 +1402,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"width": 72,
+											"width": 73.67724609375,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1850,8 +1850,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF4cyLDgUSsOVA="
 							},
-							"name": "Budget check box",
-							"type": ""
+							"name": "Budget range"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1961,7 +1960,6 @@
 								"$ref": "AAAAAAF4czlEz0V+ggA="
 							},
 							"name": "Id cadeau",
-							"visibility": "private",
 							"type": "entier"
 						},
 						{
